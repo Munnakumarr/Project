@@ -1,4 +1,4 @@
-# Project Title: AI-Based Continuous Crop Health Monitoring System
+### Project Title: AI-Based Continuous Crop Health Monitoring System
 
 ## Description:
 This project presents a system designed to monitor crop health continuously using AI algorithms. It collects data from sensors (such as soil moisture, temperature, and humidity) and analyzes plant health in real-time. The goal is to provide early warnings for diseases, nutrient deficiencies, and other crop issues, enabling farmers to make data-driven decisions and improve crop yield.
